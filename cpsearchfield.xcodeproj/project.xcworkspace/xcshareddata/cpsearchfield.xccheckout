@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D4B35E5-CE02-4299-A6C5-E186EB6401A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cpsearchfield</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4E0050A6-77FF-430E-AE25-FF6A2E2C24F3</key>
+		<string>https://github.com/kicsipixel/CPSearchWithPredicate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cpsearchfield.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4E0050A6-77FF-430E-AE25-FF6A2E2C24F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kicsipixel/CPSearchWithPredicate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4E0050A6-77FF-430E-AE25-FF6A2E2C24F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4E0050A6-77FF-430E-AE25-FF6A2E2C24F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cpsearchfield</string>
+		</dict>
+	</array>
+</dict>
+</plist>

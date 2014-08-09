@@ -45,7 +45,7 @@
     // It's a useful hook for setting up current UI values, and other things.
 
     // In this case, we want the window from Cib to become our full browser window
-    [theWindow setFullPlatformWindow:YES];
+    [theWindow setFullPlatformWindow:NO];
 
     [mySearchField setAction:@selector(searchChanged:)];
     [mySearchField setSendsWholeSearchString: NO];
@@ -67,7 +67,7 @@
         return [searchResultArray objectAtIndex: rowIndex];
 }
 
-- (IBAction)searchChanged:(id)sender
+- (@action)searchChanged:(id)sender
 {
     searchFieldValue = [mySearchField stringValue];
 
